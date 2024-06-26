@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tables</title>
+    <link href='./styles.css' type='txt/css' rel='stylesheet'>
+
+  </head>
+
+  <body>
+    <caption> Ernest Family Table</caption>
+    <table>
+      <thead>
+        <tr>
+          <th>Ernest</th>
+          <th>Osacs</th>
+          <th rowspan='2'>Gloria</th>
+        </tr>  
+      </thead>
+      <tbody>
+        <tr>
+          <td>41</td>
+          <td>39</td>
+          <td>37</td>
+        </tr>
+        <tr>
+          <td>Birmigham</td>
+          <td>Dutse</td>
+          <td>Bwari</td>
+          <td>Ushhafa</td>
+        </tr>    
+
+      </tbody>
+    </table>
+
+  </body>
+</html>
